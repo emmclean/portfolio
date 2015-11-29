@@ -1,0 +1,116 @@
+
+p{
+	font-family: "Open Sans";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.1818180084229px;
+	color: black;
+	line-height: 20px;
+}
+.psec{
+	text-align: justify;
+}
+ul{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+}
+h2, h3, h4{
+	/* color: #282828 ; */
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	font-family: 'Arial';
+	font-weight: 900;
+	font-size: 42pt;
+}
+h2{
+	font-weight: 700;
+	font-size: 24pt;
+}
+h3{
+	font-weight: 700;
+	font-size: 14pt;
+}
+h4{
+	font-weight: 500;
+	font-size: 14pt;
+}
+
+a{
+	color: black;
+}
+
+#Header{
+	width: auto;
+	margin-left: 100px;
+	margin-right: 50;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: left;
+}
+
+#Title{
+	width: auto;
+	margin-left: 100px;
+	margin-right: 50;
+	/* margin-top: 50px; */
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+#MainRight{
+	float: right;
+	overflow: hidden;
+	border-top-style: solid;
+	height:200%;
+	width: 20%;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: auto;
+	text-align: left;
+}
+
+#MainRight h2{
+	color: #282828 ;
+	padding-top:10px;
+}
+#MainRight h3{
+	color: #282828 ;
+	padding-top:10px;
+}
+/* #MainRight p{
+	font-size: 12px;
+} */
+#MainRight ul{
+	font-size: 18px;
+	list-style-type: none;
+	padding-bottom:2px;
+	padding-left: 0px
+}
+
+#MainContent{
+	width: 80%;
+	margin-left: 100;
+	/* overflow: hidden; */
+	/* margin-bottom: 10px; */
+	text-align: left;
+}
+#MainContent p{
+	padding-bottom: 5px;
+}
+
+
+
+
+#Footer{
+	border-top:solid 4px black;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	padding-left: 100px;
+	padding-right:100px;
+} 
